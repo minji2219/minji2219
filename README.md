@@ -3,7 +3,7 @@
   
 ## Seo Minji✨
   
-  <a href="https://www.notion.so/Portfolio-a2f994c437714eabb1c422ac7556ec20"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"></a> 
+  <a href="https://www.notion.so/Portfolio-x-14c60144263c80f6872aec4851c450ac"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"></a> 
   <a href="mailto:mintydev@naver.com"><img src="https://img.shields.io/badge/Contact Me-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>  
 
   🔎 카카오테크캠퍼스 2기  
