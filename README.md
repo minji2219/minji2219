@@ -24,7 +24,6 @@
 
 <br/>
 <br/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aabb0219"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minji2219&layout=compact&hide=css,scss&theme=dracula&langs_count=8"/> 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aabb0219"/>   
 </div>
 
